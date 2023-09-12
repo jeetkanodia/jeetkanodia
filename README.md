@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/jeet_kanodia" target="blank"><img src="https://img.shields.io/twitter/follow/jeet_kanodia?logo=twitter&style=for-the-badge" alt="jeet_kanodia" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **NextJs and TypeScript**
 
 - 💬 Ask me about **React , NodeJs and DSA**
 
